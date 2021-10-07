@@ -1,1 +1,2 @@
-# Tugas4_WK_android
+NIM : E41200867 
+NAMA : Fikri Azkia'i Zamzam
